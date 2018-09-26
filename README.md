@@ -51,7 +51,7 @@ To complete Part II, fulfill the following requirements:
     }
   ]
   ```
-2. Create 6 different music genres of your choice, with 6 different songs/artist in each genre
+2. Create 2 different music genres of your choice, with 6 different songs/artist in each genre
 3. All your data should be saved in `data.js` file 
 
 ### Part IV JS
@@ -66,7 +66,7 @@ To complete Part II, fulfill the following requirements:
 ## Strech Goals
 
 1. Make it more pretty
-2. Add more genres
+2. Add 4 more genres
 
 ## Resources
 [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
