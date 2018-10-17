@@ -1,0 +1,36 @@
+
+h1{
+    color: royalblue;
+}
+h2{
+    text-align: center;
+}
+#pickGenre{
+    text-align: center;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+}
+#songBox{
+
+    text-align: center;
+}
+#Submit {
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+}
+
+#Submit:hover {
+    background-color: #555555;
+    color: white;
+}
+#Submit:active {
+    background-color: #555555;
+    box-shadow: 0 2px black;
+    transform: translateY(3px);
+  }
